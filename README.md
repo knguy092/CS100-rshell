@@ -1,3 +1,6 @@
+<p> This was a project done by me and my partner Jeet Thakkar for CS100 at UCR - Software Construction</p>
+
+
 <h1>RSHELL</hi>
 ===============
 
